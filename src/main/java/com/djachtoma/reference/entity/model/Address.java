@@ -1,4 +1,4 @@
-package model;
+package com.djachtoma.reference.entity.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

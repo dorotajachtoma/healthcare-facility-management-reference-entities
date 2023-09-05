@@ -1,5 +1,4 @@
-package model;
-
+package com.djachtoma.reference.entity.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -10,7 +9,7 @@ import lombok.NoArgsConstructor;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-public class IDCard {
+public class PhoneNumber {
 
-    private String seriesNumber;
+    private String number;
 }
